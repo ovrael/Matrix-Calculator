@@ -55,11 +55,11 @@ To upgrade:
 
 ## Screenshots
 
-<img src=./ReadMeIMG/AddMatrix.png alt="Adding matrix" width="75%"/>
-<img src=./ReadMeIMG/EditMatrix.png alt="Editing matrix" width="75%"/>
-<img src=./ReadMeIMG/ViewMatrices.png alt="Viewing matrix" width="75%"/>
-<img src=./ReadMeIMG/AnalysisMatrix.png alt="Analysing matrix" width="75%"/>
-<img src=./ReadMeIMG/OperationsMatrix.png alt="Operating matrix" width="75%"/>
+![Adding matrix](./ReadMeIMG/AddMatrix.png)
+![Editing matrix](./ReadMeIMG/EditMatrix.png)
+![Viewing matrix](./ReadMeIMG/ViewMatrices.png)
+![Analysing matrix](./ReadMeIMG/ViewMatrices.png)
+![Operating matrix](./ReadMeIMG/OperationsMatrix.png)c
 
 ## Youtube video
 
