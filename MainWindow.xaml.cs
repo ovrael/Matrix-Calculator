@@ -33,7 +33,7 @@ namespace MatrixCalculatorWPF
 
         static bool wasSaved = false;
 
-        static int modifySelectedMatrix  = - 1;
+        static int modifySelectedMatrix = -1;
         static int analyzeSelectedMatrix = -1;
         static int firstVieMatrixIndex = -1;
         static int secondVieMatrixIndex = -1;
@@ -144,32 +144,6 @@ namespace MatrixCalculatorWPF
                 cbChangeLanguage.SelectedIndex = 1;
             }
         }
-
-        //private void ChangeColors(TabItem item)
-        //{
-        //    Brush initColor = item.Background;
-        //    SolidColorBrush selectedColor = (SolidColorBrush)initColor;
-
-        //    const byte diff = 20;
-        //    Color newColor = new Color();
-        //    newColor.R = (byte)(selectedColor.Color.R - diff);
-        //    newColor.G = (byte)(selectedColor.Color.G - diff);
-        //    newColor.B = (byte)(selectedColor.Color.B - diff);
-
-        //    selectedColor = new SolidColorBrush(newColor);
-
-        //    if (item.IsSelected)
-        //    {
-        //        item.Background = selectedColor;
-        //        item.Header = "SELECTED";
-
-        //    }
-        //    else
-        //    {
-        //        item.Background = initColor;
-        //        item.Header = "UNSELECTED";
-        //    }
-        //}
 
         private void CreateMatrixGrid(int rows, int columns, CreateMethod method)
         {
@@ -558,7 +532,6 @@ namespace MatrixCalculatorWPF
                 {
                     if (cMethod == CreateMethod.Identity && rows != columns)
                     {
-                        bAddMatrix.IsEnabled = false;
                         MessageBox.Show(notSquareString, errorMSG, MessageBoxButton.OK, MessageBoxImage.Error);
                     }
                     else if ((cMethod == CreateMethod.Identity && rows == columns) || cMethod == CreateMethod.Clear)
