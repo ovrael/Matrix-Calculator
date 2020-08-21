@@ -58,7 +58,7 @@ To upgrade:
 ![Adding matrix](./ReadMeIMG/AddMatrix.png)
 ![Editing matrix](./ReadMeIMG/EditMatrix.png)
 ![Viewing matrix](./ReadMeIMG/ViewMatrices.png)
-![Analysing matrix](./ReadMeIMG/ViewMatrices.png)
+![Analysing matrix](./ReadMeIMG/AnalysisMatrix.png)
 ![Operating matrix](./ReadMeIMG/OperationsMatrix.png)
 
 ## Youtube video
