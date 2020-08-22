@@ -49,9 +49,9 @@ TBD
 To upgrade:
 
 * Better algorithm to calculate determinant
-* Increase max size from 18x18 to much more.
-* Better language system.
-* Calculate matrices with unknowns?
+* Increase max size from 18x18 to much more
+* Better language system
+* Calculate matrices with unknowns(?)
 
 ## Screenshots
 
