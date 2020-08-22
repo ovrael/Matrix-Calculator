@@ -10,8 +10,8 @@
   - [Technologies](#technologies)
   - [Setup](#setup)
   - [Features](#features)
-  - [Screenshots](#screenshots)
   - [Youtube video](#youtube-video)
+  - [Screenshots](#screenshots)
   - [Status](#status)
   - [Why did I create it](#why-did-i-create-it)
   - [Contact](#contact)
@@ -53,6 +53,10 @@ To upgrade:
 * Better language system
 * Calculate matrices with unknowns(?)
 
+## Youtube video
+
+[Check how it works!](https://www.youtube.com/watch?v=MHhdeUPdQII)
+
 ## Screenshots
 
 ![Adding matrix](./ReadMeIMG/AddMatrix.png)
@@ -60,10 +64,6 @@ To upgrade:
 ![Viewing matrix](./ReadMeIMG/ViewMatrices.png)
 ![Analysing matrix](./ReadMeIMG/AnalysisMatrix.png)
 ![Operating matrix](./ReadMeIMG/OperationsMatrix.png)
-
-## Youtube video
-
-[Check how it works!](https://www.youtube.com/watch?v=MHhdeUPdQII)
 
 ## Status
 
