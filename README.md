@@ -24,7 +24,7 @@ This is a GUI program that allows to perform many operations on matrices. But al
 
 * Windows Presentation Foundation
 * XAML
-* .NET 3.0
+* .NET Framework 4.7.2
 
 ## Setup
 
